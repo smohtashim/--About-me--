@@ -1,5 +1,5 @@
 - 👋🙋 Hi, I’m **Syed Mohtashim Ali**
-     I'm a passionate web developer with a diverse skill set,
+     I'm a passionate Web developer with a diverse skill set,
      and a keen interest in automation and web scraping.
 - 👀 I’m continuously learning and exploring new technologies,
      to enhance my skills and stay updated with the latest trends in web development.
