@@ -1,4 +1,4 @@
-- 👋🙋 Hi, I’m @smohtashim
+- 👋🙋 Hi, I’m **Syed Mohtashim Ali**
      I'm a passionate web developer with a diverse skill set,
      and a keen interest in automation and web scraping.
 - 👀 I’m continuously learning and exploring new technologies,
@@ -12,4 +12,4 @@
      from different websites using tools like ParseHub and Octoparse.
 - 📫 You can reach me via email at [smohtashim04@gmail.com](mailto:smohtashim04@gmail.com) or,
      connect with me on [LinkedIn](https://www.linkedin.com/in/syedmohtashim).
-- 😊 Pronouns: ✨ سید محتشم ✨
+- 😊 Pronouns: ✨ سید محتشم علی ✨
